@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://54.86.53.117:8081/repository/myapp-jenk-snapshot</url>
+	      <url>http://54.86.53.117:8081/repository/myapp-jenk-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
